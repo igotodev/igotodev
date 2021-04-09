@@ -3,4 +3,4 @@
                       programming, 
                    🐧 linux,
                       etc.
-- 🌱 I’m currently learning 🚀 golang
+- 🌱 I’m currently learning 🚀 Golang
